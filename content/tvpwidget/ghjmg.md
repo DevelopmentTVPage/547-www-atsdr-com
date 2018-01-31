@@ -1,9 +1,9 @@
 {
-    "type": "carousel",
-    "title": "ghjmg",
     "name": "ghjmg",
+    "template": "carousel",
+    "title": "ghjmg",
+    "projectId": "547",
     "channelId": "139541386",
-    "layout": "bootstrap",
     "css": {
         ".widget-body": {
             "widget_background_color": "rgba(238, 241, 183, 1)",
@@ -16,8 +16,12 @@
             "carousel_dot_width": "20"
         },
         ".widget-title": {
-            "widget_title_display": "block",
+            "widget_title_display": "none",
             "widget_title_background_color": "Rgba(238, 241, 183, 1)"
         }
-    }
+    },
+    "layout": "bootstrap",
+    "channelTitle": "asdf",
+    "channelType": "Standard",
+    "type": "carousel"
 }
