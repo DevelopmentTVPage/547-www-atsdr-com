@@ -1,0 +1,15 @@
+{
+    "title": "cnjh",
+    "baseURL": "https:\/\/www.atsdr.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759129",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "atsdr.com"
+    }
+}
