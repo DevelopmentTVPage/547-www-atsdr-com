@@ -7,6 +7,9 @@
     "css": {
         ".widget-body": {
             "widget_background_color": "rgba(255, 0, 0, 1)"
+        },
+        ".carousel-arrow": {
+            "carousel_arrow_display": "none"
         }
     }
 }
