@@ -6,7 +6,7 @@
     "channelId": "139541386",
     "css": {
         ".widget-body": {
-            "widget_background_color": "rgba(238, 241, 183, 1)",
+            "widget_background_color": "rgba(242, 255, 0, 1)",
             "widget_border_style": "dashed",
             "widget_border_width": "17",
             "widget_border_color": "rgba(255, 0, 0, 1)"
