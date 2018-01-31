@@ -11,5 +11,14 @@
         ".carousel-arrow": {
             "carousel_arrow_display": "none"
         }
-    }
+    },
+    "advertising": {
+        "enabled": false,
+        "adServerUrl": null,
+        "adTimeout": 2000,
+        "maxAds": 100,
+        "adInterval": 0
+    },
+    "preload": false,
+    "autoplay": true
 }
