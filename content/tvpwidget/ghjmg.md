@@ -10,6 +10,10 @@
             "widget_border_style": "dashed",
             "widget_border_width": "11",
             "widget_border_color": "rgba(0, 0, 0, 1)"
+        },
+        ".slick-dots li button": {
+            "carousel_dot_height": "20",
+            "carousel_dot_width": "20"
         }
     }
 }
