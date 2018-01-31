@@ -3,5 +3,13 @@
     "title": "ghjmg",
     "name": "ghjmg",
     "channelId": "139541386",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "css": {
+        ".widget-body": {
+            "widget_background_color": "rgba(0, 255, 183, 1)",
+            "widget_border_style": "dashed",
+            "widget_border_width": "11",
+            "widget_border_color": "rgba(0, 0, 0, 1)"
+        }
+    }
 }
