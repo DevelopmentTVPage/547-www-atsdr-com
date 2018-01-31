@@ -8,8 +8,8 @@
         ".widget-body": {
             "widget_background_color": "rgba(238, 241, 183, 1)",
             "widget_border_style": "dashed",
-            "widget_border_width": "11",
-            "widget_border_color": "rgba(0, 0, 0, 1)"
+            "widget_border_width": "17",
+            "widget_border_color": "rgba(255, 0, 0, 1)"
         },
         ".slick-dots li button": {
             "carousel_dot_height": "20",
