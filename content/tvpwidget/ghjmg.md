@@ -14,6 +14,9 @@
         ".slick-dots li button": {
             "carousel_dot_height": "20",
             "carousel_dot_width": "20"
+        },
+        ".widget-title": {
+            "widget_title_display": "none"
         }
     }
 }
