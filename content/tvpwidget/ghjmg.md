@@ -16,7 +16,8 @@
             "carousel_dot_width": "20"
         },
         ".widget-title": {
-            "widget_title_display": "none"
+            "widget_title_display": "block",
+            "widget_title_background_color": "Rgba(238, 241, 183, 1)"
         }
     }
 }
