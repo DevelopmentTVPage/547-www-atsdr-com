@@ -1,0 +1,26 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "139541387",
+            "title": "LOL",
+            "date_created": "1517376702",
+            "loginId": "1759129",
+            "tags": null,
+            "description": "Good",
+            "asset": {
+                "type": "mp4",
+                "type_stream": "live",
+                "sources": [],
+                "hlsUrl": "https:\/\/8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com\/out\/v1\/06d5da5a252e4c1cad8c8421576e2483\/index.m3u8",
+                "dashUrl": "https:\/\/8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com\/out\/v1\/4366bf1e3f7d45d09126e9e38e0fb731\/index.mpd",
+                "live_status": "LIVE_STARTED",
+                "live_quality": "1080",
+                "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1759129\/139541387",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759129\/canvas\/142\/78\/676291186-0452142530.jpg"
+            },
+            "parentId": "139541388",
+            "url": "\/live\/lol\/139541388-139541387"
+        }
+    ]
+}

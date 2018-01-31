@@ -1,0 +1,61 @@
+{
+    "title": "LOL",
+    "description": "Good",
+    "referenceId": "TVP_LIVE_1649868",
+    "date_created": "1517376702",
+    "date_modified": "1517376726",
+    "tags": null,
+    "sourceId": "7",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "139541387",
+    "loginId": "1759129",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "139541388",
+    "titleTextEncoded": "LOL",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 0,
+    "settings": {
+        "destinations": [
+            {
+                "ip": "34.216.242.68",
+                "port": "1935",
+                "url": "rtmp:\/\/34.216.242.68\/staging-b30580602cbb467042cb9259424b9682"
+            },
+            {
+                "ip": "34.210.235.179",
+                "port": "1935",
+                "url": "rtmp:\/\/34.210.235.179\/staging-b30580602cbb467042cb9259424b9682"
+            }
+        ],
+        "provider": "TVP_LIVE",
+        "providerId": "1649868",
+        "environment": "staging",
+        "liveId": "b30580602cbb467042cb9259424b9682",
+        "live_status": "LIVE_STARTED",
+        "live_quality": "1080",
+        "quality": null
+    },
+    "asset": {
+        "type": "mp4",
+        "type_stream": "live",
+        "sources": [],
+        "hlsUrl": "https:\/\/8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com\/out\/v1\/06d5da5a252e4c1cad8c8421576e2483\/index.m3u8",
+        "dashUrl": "https:\/\/8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com\/out\/v1\/4366bf1e3f7d45d09126e9e38e0fb731\/index.mpd",
+        "live_status": "LIVE_STARTED",
+        "live_quality": "1080",
+        "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1759129\/139541387",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759129\/canvas\/142\/78\/676291186-0452142530.jpg"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}
